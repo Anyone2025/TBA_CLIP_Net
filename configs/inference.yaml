@@ -1,0 +1,13 @@
+# input video or videos
+input: 'input'
+#output video or videos
+output: 'output'
+# select the shot of model
+shot: 8
+# best beta & alpha
+beta: 0.5
+alpha: 2.855
+# batch_size
+batch_size: 4
+# frame_step
+frame_step: 2

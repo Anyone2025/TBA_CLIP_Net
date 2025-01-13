@@ -1,0 +1,16 @@
+/.idea
+/ultralytics/wandb
+/ultralytics/assets
+/base_model
+/datasets_splits/format_change.py
+/dataSets/extrat.py
+**/__pycache__
+*.sh
+/test
+/caches
+/train_output/log_rank0.txt
+*.csv
+*.png
+*.jpg
+*.zip
+input
